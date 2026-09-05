@@ -1,0 +1,10 @@
+risk_key,credit_risk_category,debt_risk_tier,risk_severity_rank,description
+RISK_HIGH_RISK_CRITICAL_RISK,High Risk,Critical Risk,1,Credit Bureau: High Risk | Debt Burden: Critical Risk
+RISK_HIGH_RISK_HIGH_RISK,High Risk,High Risk,2,Credit Bureau: High Risk | Debt Burden: High Risk
+RISK_LOW_RISK_LOW_RISK,Low Risk,Low Risk,4,Credit Bureau: Low Risk | Debt Burden: Low Risk
+RISK_LOW_RISK_HIGH_RISK,Low Risk,High Risk,2,Credit Bureau: Low Risk | Debt Burden: High Risk
+RISK_MEDIUM_RISK_MODERATE_RISK,Medium Risk,Moderate Risk,3,Credit Bureau: Medium Risk | Debt Burden: Moderate Risk
+RISK_MEDIUM_RISK_HIGH_RISK,Medium Risk,High Risk,2,Credit Bureau: Medium Risk | Debt Burden: High Risk
+RISK_MEDIUM_RISK_CRITICAL_RISK,Medium Risk,Critical Risk,1,Credit Bureau: Medium Risk | Debt Burden: Critical Risk
+RISK_MEDIUM_RISK_LOW_RISK,Medium Risk,Low Risk,3,Credit Bureau: Medium Risk | Debt Burden: Low Risk
+RISK_VERY_HIGH_RISK_CRITICAL_RISK,Very High Risk,Critical Risk,1,Credit Bureau: Very High Risk | Debt Burden: Critical Risk

@@ -1,0 +1,10 @@
+credit_risk_category,debt_risk_tier,customer_count,pct_of_total,avg_credit_score,avg_missed_payments,avg_credit_utilization_pct,avg_total_debt,avg_dti_ratio,avg_savings_balance,unbuffered_customers
+High Risk,Critical Risk,2029,13.53,632.5,3.13,65.35,182908.87,0.3676,49043.6,8
+High Risk,High Risk,1233,8.22,642.4,1.51,65.1,100566.34,0.185,47872.53,1
+Low Risk,High Risk,149,0.99,772.9,0.91,15.03,33642.01,0.0694,63688.22,1
+Low Risk,Low Risk,2689,17.93,775.7,0.0,14.92,16431.36,0.0326,61295.53,0
+Medium Risk,Critical Risk,70,0.47,693.8,0.46,36.34,306939.63,0.5863,69683.15,0
+Medium Risk,High Risk,2477,16.51,709.5,1.24,34.64,50538.42,0.0937,52421.61,3
+Medium Risk,Low Risk,598,3.99,744.5,0.0,34.7,20420.62,0.0411,59291.67,2
+Medium Risk,Moderate Risk,4626,30.84,706.7,0.0,35.05,28249.78,0.0575,50763.56,4
+Very High Risk,Critical Risk,1129,7.53,519.9,7.48,84.33,343292.8,0.9001,38554.84,1

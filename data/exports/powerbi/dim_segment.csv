@@ -1,0 +1,8 @@
+segment_key,customer_segment,segment_category,priority_level,description
+SEG_STRONG,Financially Strong,High Value,1,"High income, top credit score, low DTI, healthy savings rate"
+SEG_HIGH_SPEND,High-Income High-Spenders,Revenue Driver,2,High income with heavy expense ratio (>=70%) and low savings rate
+SEG_SAVERS,Disciplined Savers,Saver Base,3,Moderate income with high savings rate (>=20%) and fully funded emergency reserve
+SEG_DEBT_BURDENED,Debt-Burdened,Credit Risk,4,High DTI (>=0.45) or heavy total liabilities (>=$50k)
+SEG_CREDIT_RISK,Credit-Risk Customers,Delinquency Target,5,"Credit score <580, missed payments >=3, or very high risk tier"
+SEG_LOW_ENGAGED,Low-Engagement Customers,Retention Risk,6,Low transaction volume (<=3) and single product holding
+SEG_EMERGING,Emerging Customers,General,7,General customer demographic base

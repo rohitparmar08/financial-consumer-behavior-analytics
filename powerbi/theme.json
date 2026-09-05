@@ -1,0 +1,52 @@
+{
+  "name": "Financial Analytics Corporate Theme",
+  "dataColors": [
+    "#1E3A8A",
+    "#0D9488",
+    "#D97706",
+    "#DC2626",
+    "#2563EB",
+    "#059669",
+    "#7C3AED",
+    "#DB2777"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1F2937",
+  "tableAccent": "#1E3A8A",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outspacePane": [
+          {
+            "backgroundColor": { "solid": { "color": "#F9FAFB" } }
+          }
+        ],
+        "filterCard": [
+          {
+            "textSize": 10,
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 24,
+            "color": { "solid": { "color": "#1E3A8A" } },
+            "isBold": true
+          }
+        ],
+        "categoryLabels": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 10,
+            "color": { "solid": { "color": "#4B5563" } }
+          }
+        ]
+      }
+    }
+  }
+}

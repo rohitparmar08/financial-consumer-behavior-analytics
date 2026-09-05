@@ -1,0 +1,8 @@
+product_type_key,product_type,product_category,description
+PROD_SAVINGS,Savings Account,Deposit Account,Core liquidity savings account
+PROD_CREDIT_CARD,Credit Card,Revolving Credit,Revolving credit line card
+PROD_PERSONAL_LOAN,Personal Loan,Unsecured Installment,Unsecured personal loan
+PROD_MORTGAGE,Mortgage,Secured Real Estate,Residential real estate mortgage
+PROD_INVESTMENT,Investment Account,Wealth & Securities,Brokerage investment portfolio
+PROD_AUTO_LOAN,Auto Loan,Secured Vehicle,Vehicle financing loan
+PROD_RETIREMENT,Retirement Account,Wealth & Pensions,Long-term tax-deferred retirement plan

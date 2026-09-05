@@ -1,0 +1,101 @@
+product_type,product_status,income_band,total_holdings,unique_customers,pct_of_all_products
+Auto Loan,Active,High (>$10k),182,182,0.58
+Auto Loan,Active,Low (<$2.5k),199,199,0.64
+Auto Loan,Active,Middle ($2.5k-$6k),920,920,2.94
+Auto Loan,Active,Upper-Middle ($6k-$10k),709,709,2.27
+Auto Loan,Churned,High (>$10k),17,17,0.05
+Auto Loan,Churned,Low (<$2.5k),14,14,0.04
+Auto Loan,Churned,Middle ($2.5k-$6k),64,64,0.2
+Auto Loan,Churned,Upper-Middle ($6k-$10k),57,57,0.18
+Auto Loan,Closed,High (>$10k),36,36,0.12
+Auto Loan,Closed,Low (<$2.5k),41,41,0.13
+Auto Loan,Closed,Middle ($2.5k-$6k),182,182,0.58
+Auto Loan,Closed,Upper-Middle ($6k-$10k),153,153,0.49
+Auto Loan,Pending,High (>$10k),15,15,0.05
+Auto Loan,Pending,Low (<$2.5k),11,11,0.04
+Auto Loan,Pending,Middle ($2.5k-$6k),64,64,0.2
+Auto Loan,Pending,Upper-Middle ($6k-$10k),56,56,0.18
+Credit Card,Active,High (>$10k),193,193,0.62
+Credit Card,Active,Low (<$2.5k),199,199,0.64
+Credit Card,Active,Middle ($2.5k-$6k),951,951,3.04
+Credit Card,Active,Upper-Middle ($6k-$10k),691,691,2.21
+Credit Card,Churned,High (>$10k),5,5,0.02
+Credit Card,Churned,Low (<$2.5k),11,11,0.04
+Credit Card,Churned,Middle ($2.5k-$6k),53,53,0.17
+Credit Card,Churned,Upper-Middle ($6k-$10k),59,59,0.19
+Credit Card,Closed,High (>$10k),43,43,0.14
+Credit Card,Closed,Low (<$2.5k),33,33,0.11
+Credit Card,Closed,Middle ($2.5k-$6k),187,187,0.6
+Credit Card,Closed,Upper-Middle ($6k-$10k),131,131,0.42
+Credit Card,Pending,High (>$10k),12,12,0.04
+Credit Card,Pending,Low (<$2.5k),13,13,0.04
+Credit Card,Pending,Middle ($2.5k-$6k),69,69,0.22
+Credit Card,Pending,Upper-Middle ($6k-$10k),36,36,0.12
+Investment Account,Active,High (>$10k),191,191,0.61
+Investment Account,Active,Low (<$2.5k),169,169,0.54
+Investment Account,Active,Middle ($2.5k-$6k),934,934,2.99
+Investment Account,Active,Upper-Middle ($6k-$10k),699,699,2.24
+Investment Account,Churned,High (>$10k),16,16,0.05
+Investment Account,Churned,Low (<$2.5k),19,19,0.06
+Investment Account,Churned,Middle ($2.5k-$6k),65,65,0.21
+Investment Account,Churned,Upper-Middle ($6k-$10k),52,52,0.17
+Investment Account,Closed,High (>$10k),35,35,0.11
+Investment Account,Closed,Low (<$2.5k),36,36,0.12
+Investment Account,Closed,Middle ($2.5k-$6k),222,222,0.71
+Investment Account,Closed,Upper-Middle ($6k-$10k),143,143,0.46
+Investment Account,Pending,High (>$10k),11,11,0.04
+Investment Account,Pending,Low (<$2.5k),10,10,0.03
+Investment Account,Pending,Middle ($2.5k-$6k),82,82,0.26
+Investment Account,Pending,Upper-Middle ($6k-$10k),51,51,0.16
+Mortgage,Active,High (>$10k),201,201,0.64
+Mortgage,Active,Low (<$2.5k),194,194,0.62
+Mortgage,Active,Middle ($2.5k-$6k),901,901,2.88
+Mortgage,Active,Upper-Middle ($6k-$10k),699,699,2.24
+Mortgage,Churned,High (>$10k),9,9,0.03
+Mortgage,Churned,Low (<$2.5k),14,14,0.04
+Mortgage,Churned,Middle ($2.5k-$6k),47,47,0.15
+Mortgage,Churned,Upper-Middle ($6k-$10k),66,66,0.21
+Mortgage,Closed,High (>$10k),45,45,0.14
+Mortgage,Closed,Low (<$2.5k),44,44,0.14
+Mortgage,Closed,Middle ($2.5k-$6k),188,188,0.6
+Mortgage,Closed,Upper-Middle ($6k-$10k),163,163,0.52
+Mortgage,Pending,High (>$10k),15,15,0.05
+Mortgage,Pending,Low (<$2.5k),12,12,0.04
+Mortgage,Pending,Middle ($2.5k-$6k),48,48,0.15
+Mortgage,Pending,Upper-Middle ($6k-$10k),51,51,0.16
+Personal Loan,Active,High (>$10k),219,219,0.7
+Personal Loan,Active,Low (<$2.5k),158,158,0.51
+Personal Loan,Active,Middle ($2.5k-$6k),923,923,2.95
+Personal Loan,Active,Upper-Middle ($6k-$10k),718,718,2.3
+Personal Loan,Churned,High (>$10k),10,10,0.03
+Personal Loan,Churned,Low (<$2.5k),13,13,0.04
+Personal Loan,Churned,Middle ($2.5k-$6k),57,57,0.18
+Personal Loan,Churned,Upper-Middle ($6k-$10k),47,47,0.15
+Personal Loan,Closed,High (>$10k),37,37,0.12
+Personal Loan,Closed,Low (<$2.5k),49,49,0.16
+Personal Loan,Closed,Middle ($2.5k-$6k),197,197,0.63
+Personal Loan,Closed,Upper-Middle ($6k-$10k),134,134,0.43
+Personal Loan,Pending,High (>$10k),20,20,0.06
+Personal Loan,Pending,Low (<$2.5k),12,12,0.04
+Personal Loan,Pending,Middle ($2.5k-$6k),66,66,0.21
+Personal Loan,Pending,Upper-Middle ($6k-$10k),43,43,0.14
+Retirement Account,Active,High (>$10k),220,220,0.7
+Retirement Account,Active,Low (<$2.5k),215,215,0.69
+Retirement Account,Active,Middle ($2.5k-$6k),912,912,2.92
+Retirement Account,Active,Upper-Middle ($6k-$10k),698,698,2.23
+Retirement Account,Churned,High (>$10k),12,12,0.04
+Retirement Account,Churned,Low (<$2.5k),8,8,0.03
+Retirement Account,Churned,Middle ($2.5k-$6k),55,55,0.18
+Retirement Account,Churned,Upper-Middle ($6k-$10k),52,52,0.17
+Retirement Account,Closed,High (>$10k),34,34,0.11
+Retirement Account,Closed,Low (<$2.5k),43,43,0.14
+Retirement Account,Closed,Middle ($2.5k-$6k),193,193,0.62
+Retirement Account,Closed,Upper-Middle ($6k-$10k),155,155,0.5
+Retirement Account,Pending,High (>$10k),13,13,0.04
+Retirement Account,Pending,Low (<$2.5k),16,16,0.05
+Retirement Account,Pending,Middle ($2.5k-$6k),61,61,0.2
+Retirement Account,Pending,Upper-Middle ($6k-$10k),46,46,0.15
+Savings Account,Active,High (>$10k),1497,1497,4.79
+Savings Account,Active,Low (<$2.5k),1403,1403,4.49
+Savings Account,Active,Middle ($2.5k-$6k),6893,6893,22.04
+Savings Account,Active,Upper-Middle ($6k-$10k),5207,5207,16.65

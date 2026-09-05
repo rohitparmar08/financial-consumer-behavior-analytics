@@ -1,0 +1,8 @@
+customer_segment,customer_count,pct_of_total_customers,avg_monthly_income,avg_monthly_expense,avg_savings_balance,avg_savings_rate_pct,avg_total_debt,avg_dti_ratio,avg_credit_score,avg_transactions_per_customer,avg_transaction_amount_per_customer,avg_active_products
+Credit-Risk Customers,594,3.96,4493.97,3433.89,32990.55,13.15,17865.91,0.0848,644.4,5.1,1940.38,1.8
+Debt-Burdened,3042,20.28,6317.61,4653.95,55013.42,15.8,258504.45,0.5557,613.6,5.1,1964.21,1.78
+Disciplined Savers,1747,11.65,3953.55,2686.75,54185.8,23.64,70241.67,0.2107,708.2,5.0,1880.11,1.82
+Emerging Customers,6173,41.15,5099.26,3808.7,41184.8,14.78,14573.26,0.0434,715.2,5.2,1994.11,1.88
+Financially Strong,1219,8.13,8783.1,6159.16,97458.08,20.73,24321.12,0.0328,770.1,5.0,2071.15,1.81
+High-Income High-Spenders,1724,11.49,9999.11,7932.03,61358.92,11.35,101737.59,0.1251,687.7,5.1,2096.45,1.81
+Low-Engagement Customers,501,3.34,5129.09,3859.25,41846.27,14.5,13493.35,0.0382,714.2,2.5,918.11,1.0

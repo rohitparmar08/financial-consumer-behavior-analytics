@@ -1,0 +1,22 @@
+project:
+  name: "Financial / Consumer Behavior Analytics"
+  version: "1.0.0"
+  random_seed: 42
+
+dataset:
+  num_customers: 15000
+  avg_transactions_per_customer: 5
+  avg_products_per_customer: 1.8
+  start_date: "2021-01-01"
+  end_date: "2025-12-31"
+  missing_value_rate: 0.02
+
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  exports_dir: "data/exports"
+  database_dir: "database"
+  database_path: "database/financial_analytics.db"
+  sql_schema_dir: "sql/schema"
+  sql_analysis_dir: "sql/analysis"
+  reports_dir: "reports"
