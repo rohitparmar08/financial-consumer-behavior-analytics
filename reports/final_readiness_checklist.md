@@ -64,7 +64,11 @@ This checklist documents the final local quality assurance audit for the **Finan
 
 ## 6. GitHub Publication Status
 
-> [!IMPORTANT]
-> **Status**: **NOT PUBLISHED — READY FOR MANUAL REVIEW**
+> [!NOTE]
+> **Status**: **GITHUB PUBLISHED**
 >
-> All code, SQL scripts, Power BI exports, test suites, and documentation have been locally executed and verified. **No git push, git commit, git add, or remote repository creation was performed in Part 4.**
+> - **Repository URL**: [https://github.com/rohitparmar08/financial-consumer-behavior-analytics](https://github.com/rohitparmar08/financial-consumer-behavior-analytics)
+> - **Visibility**: Public
+> - **Branch**: `main`
+>
+> The complete project codebase, analytical models, Power BI Star Schema, test suite, and documentation are published and publicly accessible on GitHub.

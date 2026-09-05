@@ -206,7 +206,15 @@ Documented in [`reports/strategic_recommendations.md`](reports/strategic_recomme
 
 ## 21. GitHub Publication Status
 
-> [!IMPORTANT]
-> **NOT PUBLISHED — READY FOR MANUAL REVIEW**
+> [!NOTE]
+> **PUBLISHED — PUBLIC REPOSITORY**
 >
-> GitHub publication intentionally not performed in Part 4. The repository is completely developed, tested, documented, and locally verified, ready for final review and separate GitHub publication.
+> - **GitHub Account**: `rohitparmar08`
+> - **Repository Name**: `financial-consumer-behavior-analytics`
+> - **Repository URL**: [https://github.com/rohitparmar08/financial-consumer-behavior-analytics](https://github.com/rohitparmar08/financial-consumer-behavior-analytics)
+> - **Visibility**: Public
+> - **Default Branch**: `main`
+> - **Publication Date**: September 5, 2026
+> - **Commit Hash**: `71b62c6`
+>
+> The complete portfolio repository—including Python pipeline scripts, SQLite database, analytical SQL views, Power BI Star Schema datasets, DAX measures, test suite, and documentation—is published and publicly accessible on GitHub.
